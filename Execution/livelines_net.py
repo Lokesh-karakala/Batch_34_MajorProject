@@ -60,7 +60,7 @@ print("Model loaded from disk")
 
 video = cv2.VideoCapture(0)
 
-
+timer=int(0)
 
 
 
